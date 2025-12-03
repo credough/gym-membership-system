@@ -23,6 +23,6 @@ It demonstrates basic SQL operations such as creating tables, inserting data, SE
 ## Tech Stack
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/331488/sqlite.svg" alt="SQLite Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="50"/>
 </p>
 

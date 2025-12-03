@@ -1,6 +1,5 @@
 # Gym Membership System (SQLite)
 
-## Description
 This is a SQL project that manages gym’s members, membership plans, trainers, and attendance records. 
 It demonstrates basic SQL operations such as creating tables, inserting data, SELECT queries, JOINs, and aggregation.
 

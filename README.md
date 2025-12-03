@@ -19,3 +19,10 @@ It demonstrates basic SQL operations such as creating tables, inserting data, SE
 ## Notes
 - This project is simple and perfect for practicing SQL fundamentals.
 - SQLite is used, so there’s no server setup needed.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/331488/sqlite.svg" alt="SQLite Logo" width="50"/>
+</p>
+
